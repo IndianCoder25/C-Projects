@@ -1,1 +1,1 @@
-### This repo contains projects done while learning C language including C++.
+#### This repository contains various projects implemented in C and C++ language.
